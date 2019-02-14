@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "com.kapil.tatras",
+    "packageFolder": "com/kapil/tatras",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "NWU5ZGM0Y2Q4YjM3MDRlMjc2NmZlYzc0NTM0N2EwNTFkZWM1NjMxMTlhMzNkODhmYmNlNjBkMjliMGIwOTMyOTM3YTc4YTJkNzgyMzU0ZWUwZDQ3OWZkOGM4Nzk0Y2Q3NzViOTdhM2NhMzEyYmM4NmM3NmU4NTA2ZDg1ZmFlY2E=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "papimann",
+  "repository-name": "jhipster-sample-application"
+}
